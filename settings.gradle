@@ -1,0 +1,2 @@
+rootProject.name = "android_project_19_Ecommerce_App"
+include ':app'
